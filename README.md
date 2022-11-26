@@ -2,8 +2,8 @@
 
 ## Description
 
-
-## Challenge 1: Student Grade Generator (Toy Problem)
+## grade.js
+### Challenge 1: Student Grade Generator (Toy Problem)
 
 A function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
 
@@ -33,11 +33,12 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 >Step 2: npm install prompt-sync
 
->Step 3: Run the js file (i.e grade.js) on the terminal
+>Step 3: Run the js file (i.e node grade.js) on the terminal
 
 ## Authors
 
 
 ex. John Okari
+
 ex. [@johnnokari](https://twitter.com/johnnokari)
 
