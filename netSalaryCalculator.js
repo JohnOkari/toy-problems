@@ -1,7 +1,7 @@
 
 
 function netSalaryCalculator(tax){
-    
+   // net income 
     let income = parseFloat($("income"). value);
     $("tax").value = calcPayee(income);
     console.log(tax);
@@ -14,8 +14,10 @@ function netSalaryCalculator(tax){
         } else {
             tax = (ksh)*0.1
         }
+        //returns tax
         return tax;
     }  
 }
+netSalaryCalculator()
 
 // console.log(netSalaryCalculator())
